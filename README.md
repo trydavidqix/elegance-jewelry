@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# elegance-jewelry
-elegance-jewelry
-=======
+
 # Elegance Jewelry - Institutional Website
 
 ![Elegance Jewelry](assets/img/image.png)
@@ -99,4 +96,4 @@ The website is fully responsive and adapts to the following breakpoints:
 
 ---
 Developed with ❤️ by [David William](https://github.com/trydavidqix) 
->>>>>>> 640eef3 (Initial commit: Elegance Jewelry website)
+
