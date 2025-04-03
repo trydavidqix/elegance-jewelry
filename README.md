@@ -11,7 +11,7 @@ Elegance Jewelry is a modern and elegant institutional website developed with HT
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trydavidqix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trydavidmacedo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidqix)
+
 
 ## ✨ Featured Collections
 
@@ -95,5 +95,5 @@ The website is fully responsive and adapts to the following breakpoints:
 - **Phone**: +55 (11) 99999-9999
 
 ---
-Developed with ❤️ by [David William](https://github.com/trydavidqix) 
+Developed by [David William](https://github.com/trydavidqix) 
 
